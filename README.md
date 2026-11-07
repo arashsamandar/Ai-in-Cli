@@ -29,4 +29,5 @@ gemini(){
 > then just use `gemini "hello gemini how to use git remove cached` in your terminal .
 
 __Good Luck__
-__Arash Salamander__
+
+Arash Salamander @2026
