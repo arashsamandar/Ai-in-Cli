@@ -14,7 +14,7 @@ export GROQ_API_yourKey="groq api"
 # your functions to run them directly with one command
 
 grok(){
-  node /c/Users/arash/Projects/Programmer-Codes/Ai-Cli/Groq/index.js "$1"
+  node /c/Users/arash/Projects/Programmer-Codes/Ai-Cli/Groq/groq.js "$1"
 }
 
 claude(){
